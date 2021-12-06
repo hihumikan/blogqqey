@@ -2918,10 +2918,10 @@ boxen@^5.0.1:
     widest-line "^3.1.0"
     wrap-ansi "^7.0.0"
 
-boxicons@^2.0.7:
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/boxicons/-/boxicons-2.0.7.tgz#6249281faa05f7292d695220a34d5fffd6b6768c"
-  integrity sha512-1K6IkeEkjWcdXT+XO3/ZUwNp5w3rYYRwvRqAMKh/6nzEP8JP/fHx/U7Ggce3fyDKfgBDgeG+Hj3iZrV8zpVhtw==
+boxicons@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/boxicons/-/boxicons-2.1.1.tgz#84ccb3e680d142d3eecc38b15981352f6fa57a9a"
+  integrity sha512-+bOPcCnCM/7ZLDeKPB7OPqmtFmft58HfDZVEJLJx7ArDZhIDGY+wXSTUhC2eD3IGqv/UsgoDNyOKgIFoEiomGg==
   dependencies:
     "@webcomponents/webcomponentsjs" "^2.0.2"
     prop-types "^15.6.0"
